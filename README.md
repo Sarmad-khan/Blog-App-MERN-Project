@@ -11,3 +11,8 @@ Blog App is a full-stack web application built using the MERN (MongoDB, Express,
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Other**: Axios for HTTP requests
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/MohdGhazanfar/MERN-Blog-App.git
+cd MERN-Blog-App
