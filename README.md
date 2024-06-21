@@ -7,7 +7,7 @@ Responsive design
 Rich text editor for writing blog posts
 
 # Technologies Used
-Frontend: React, HTML, CSS
-Backend: Node.js, Express.js
-Database: MongoDB, Mongoose
-Other: Axios for HTTP requests
+- **Frontend**: React, HTML, CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, Mongoose
+- **Other**: Axios for HTTP requests
