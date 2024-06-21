@@ -4,7 +4,7 @@ Blog App is a full-stack web application built using the MERN (MongoDB, Express,
 # Features
 - Create, Read, Update, Delete (CRUD) operations for blog posts
 - Responsive design
-- Rich text editor for writing blog posts
+  
 
 # Technologies Used
 - **Frontend**: React, HTML, CSS
